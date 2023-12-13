@@ -5,7 +5,6 @@ The data consists of a 12X918 with the following features:
 
 Age: Age of patient at checkup (years). [Numeric]
 Sex: Either Male or Female. [Categorical – M/F]
-
 Chest Pain Type: Type of chest pain reported by the patient. [Categorical – 4 types]
 Max HR: Maximum Heart-Rate reached during exercise (bpm). [Numeric]
 Exercise Angina: Chest pain during exercise. [Categorical – Yes/No]

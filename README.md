@@ -2,8 +2,10 @@ This is my attempt to predict the presence of a heart disease within patients fr
 
 The Goal is to predict which patients suffer from 1 of 5 common cardio-vascular diseases
 The data consists of a 12X918 with the following features:
+
 Age: Age of patient at checkup (years). [Numeric]
 Sex: Either Male or Female. [Categorical – M/F]
+
 Chest Pain Type: Type of chest pain reported by the patient. [Categorical – 4 types]
 Max HR: Maximum Heart-Rate reached during exercise (bpm). [Numeric]
 Exercise Angina: Chest pain during exercise. [Categorical – Yes/No]

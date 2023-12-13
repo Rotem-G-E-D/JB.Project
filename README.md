@@ -2,12 +2,12 @@ This is my attempt to predict the presence of a heart disease within patients fr
 
 The Goal is to predict which patients suffer from 1 of 5 common cardio-vascular diseases
 The data consists of a 12X918 with the following features:
-    Age: Age of patient at checkup (years). [Numeric]
-    Sex: Either Male or Female. [Categorical – M/F]
-    Chest Pain Type: Type of chest pain reported by the patient. [Categorical – 4 types]
-    Max HR: Maximum Heart-Rate reached during exercise (bpm). [Numeric]
-    Exercise Angina: Chest pain during exercise. [Categorical – Yes/No]
-    ST Slope: The slope of a particular area in the wave form of a heartbeat ECG during exercise. Correlates to different types of coronary artery problems. [Categorical – 3 types]
+Age: Age of patient at checkup (years). [Numeric]
+Sex: Either Male or Female. [Categorical – M/F]
+Chest Pain Type: Type of chest pain reported by the patient. [Categorical – 4 types]
+Max HR: Maximum Heart-Rate reached during exercise (bpm). [Numeric]
+Exercise Angina: Chest pain during exercise. [Categorical – Yes/No]
+ST Slope: The slope of a particular area in the wave form of a heartbeat ECG during exercise. Correlates to different types of coronary artery problems. [Categorical – 3 types]
 
 The code consists of the entire research process - from initial data comprehension, through experimental naive runs, through extensive GridSearch and ends with attempt at dimention reduction
 using the best found model.
